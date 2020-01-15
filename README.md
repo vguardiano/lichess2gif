@@ -1,10 +1,6 @@
 # lichess2gif
 A easy-to-use tool that extracts gif animation from a [lichess.org] game !
 
-## License
-
-[MIT License](LICENSE.md)
-
 [jQuery]:https://jquery.com/
 [chessboardjs.com]:http://chessboardjs.com
 [chess.js]:https://github.com/jhlywa/chess.js
